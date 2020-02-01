@@ -8,5 +8,6 @@ public void sizeRAM() {
 public static void main(String[] args) {
 	ExternalStorage es = new ExternalStorage();
 	es.sizeRAM();
+	System.out.println("Branch2");
 }
 }
